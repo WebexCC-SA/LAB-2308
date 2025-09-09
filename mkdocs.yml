@@ -84,6 +84,3 @@ nav:
       - Task 3 - Data Lookup Using CAD Variables: task3.md
       - Task 4 - Case Lookup Using Custom CAD Variables and Agent Desktop Screen Pop: task4.md
       - Task 5 - Automatic New Case Creation Using Custom CAD Variables: task5.md
-      - Related Sessions at Cisco Live: conclusion.md
-        - Custom Features: howToUse/customFeatures.md
-        - Custom Admonitions: howToUse/admonition.md
