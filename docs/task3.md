@@ -1,4 +1,4 @@
-# Task 2 - Presence Synchronization Between Salesforce and Webex Contact Center
+# Task 3 - Presence Synchronization Between Salesforce and Webex Contact Center
 
 
 
