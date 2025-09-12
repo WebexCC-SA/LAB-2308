@@ -10,8 +10,8 @@ Please use the following credentials to complete the tasks:
 | `Salesforce`   | <a href="https://login.salesforce.com" target="_blank">https://login.salesforce.com/</a> |
 | `WxCC Username`       | labuser**ID**@wx1.wbx.ai     _(where **ID** is your selected pod number (01 through 10); i.e. labuser**02**@wxccciscolive2024.wbx.ai if selected pod is 2)_       |
 | `WxCC Password`       | webexONE1!         |
-| `Salesforce Username`       | As provided in the Walk-In Lab (WIL) Assistant portal       |
-| `Salesforce Password`       | As provided in the Walk-In Lab (WIL) Assistant portal       |
+| `Salesforce Username`       | As provided by the instructor       |
+| `Salesforce Password`       | As provided by the instructor       |
 
 
 !!! info "Task Objectives"
