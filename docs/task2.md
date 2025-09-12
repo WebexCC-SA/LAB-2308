@@ -1,4 +1,4 @@
-# Task 1 - Integrate Saleforce Connector with WebRTC
+# Task 2 - Integrate Saleforce Connector with WebRTC
 
 
 
@@ -115,5 +115,6 @@ Please use the following credentials to complete the tasks:
 ![Nav](./assets/t1s2p2.png){ width="333" }
 ![Nav](./assets/t1s2p3a.png){ width="326" }
 ![Nav](./assets/t1s2p4.png){ width="333" }
+
 
 - Congratulations! You have complete the task.
