@@ -24,21 +24,16 @@ Please use the following credentials to complete the tasks:
 !!! warning "Attention"
 	Please use the **Firefox** browser to access, configure, and test within the Salesforce portal.
 
-- Navigate to Salesforce portal and log in with the credentials provided in the Walk-In Lab (WIL) Assistant portal.
+- Navigate to Agent Desktop and select the Avatar on the top right
 
-!!! note
-	The package for the WxCC V2 Salesforce connector is already pre-installed. In production environments, it will need to be installed manually and can be retrieved from <a href="https://login.salesforce.com/packaging/installPackage.apexp?p0=04tUl000000VK45IAG" target="_blank">this link</a>.
+![Nav](./assets/task2/1.png){ width="800" }
 
-- Visit the Github repository to download the latest call center definition file - <a href="https://github.com/webex/webex-contact-center-crm-connectors/blob/main/salesforce/OpenCTI.callCenter-meta.xml" target="_blank">https://github.com/webex/webex-contact-center-crm-connectors/blob/main/salesforce/OpenCTI.callCenter-meta.xml</a> (click **'Download raw file button'**).
-
-
-![Nav](./assets/t1s1p1.png){ width="600" }
-
-- In the Salesforce portal, navigate to **'Feature Settings > Service > Call Center > Call Centers'** (or type _Call Centers_ in the search bar above the left-hand menu).
+- Navigate to **'Profile Settings > Desktop > Save'** (or type _Call Centers_ in the search bar above the left-hand menu).
 - Click **'Import'**, choose the call center definition file (downloaded earlier) and click **'Import'** again.
 
-![Nav](./assets/t1s1p1b.png){ width="800" }
-![Nav](./assets/t1s1p3.png){ width="500" }
+![Nav](./assets/task2/2.png){ width="400" }
+![Nav](./assets/task2/3.png){ width="400" }
+![Nav](./assets/task2/4.png){ width="400" }
 
 - After the call center definition file is imported, edit it by clicking **'Edit'**.
 - Change **'WxCC Region'** to **'us1'**.
@@ -118,3 +113,4 @@ Please use the following credentials to complete the tasks:
 
 
 - Congratulations! You have complete the task.
+
