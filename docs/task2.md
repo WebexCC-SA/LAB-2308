@@ -30,11 +30,9 @@ Please use the following credentials to complete the tasks:
 
 - Navigate to **'Profile Settings > Desktop > Save'** (or type _Call Centers_ in the search bar above the left-hand menu).
 
-![Nav](./assets/task2/2.png){ width="500" }
-
-![Nav](./assets/task2/3.png){ width="500" }
-
-![Nav](./assets/task2/4.png){ width="500" }
+![Nav](./assets/task2/2.png){ width="333" }
+![Nav](./assets/task2/3.png){ width="333" }
+![Nav](./assets/task2/4.png){ width="333" }
 
 - Once the Save button is hit, the error message pops up "WebRTC domain is not configured" 
 
@@ -68,5 +66,6 @@ Please use the following credentials to complete the tasks:
 
 
 - Congratulations! You have complete the task.
+
 
 
