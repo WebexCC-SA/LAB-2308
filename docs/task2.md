@@ -32,12 +32,12 @@ Please use the following credentials to complete the tasks:
 
 ![Nav](./assets/task2/2.png){ width="333" }
 ![Nav](./assets/task2/3.png){ width="333" }
-![Nav](./assets/task2/4.png){ width="333" }
+![Nav](./assets/task2/4.png){ width="330" }
 
 - Once the Save button is hit, the error message pops up "WebRTC domain is not configured" 
 
 ![Nav](./assets/task2/5.png){ width="400" }
-![Nav](./assets/task2/5A.png){ width="400" }
+![Nav](./assets/task2/5A.png){ width="397" }
 
 ## **Section 2 - Steps to Correct and Enable WebRTC Login**
 
@@ -66,6 +66,7 @@ Please use the following credentials to complete the tasks:
 
 
 - Congratulations! You have complete the task.
+
 
 
 
