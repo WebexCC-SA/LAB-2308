@@ -38,9 +38,10 @@ Please use the following credentials to complete the tasks:
 
 - Once the Save button is hit, the error message pops up "WebRTC domain is not configured" 
 
-![Nav](./assets/task2/5.png){ width="500" }
+![Nav](./assets/task2/5.png){ width="400" }
+![Nav](./assets/task2/5A.png){ width="400" }
 
-## **Section 2 - Steps to correct and enable WebRTC login**
+## **Section 2 - Steps to Correct and Enable WebRTC Login**
 
 - In order to mitigate this issue, on the Salesforce portal, navigate to 'Feature Settings > Service > Call Center > Call Centers' (or type Call Centers in the search bar above the left-hand menu).
 - Click 'Edit' on the the call center definition file `WxCC Call Center`
@@ -62,15 +63,10 @@ Please use the following credentials to complete the tasks:
 - Open the Webex Contact Center phone widget (bottom left) and login to Webex Contact Center Agent Desktop using the selected Webex Contact Center user credentials (e.g., _labuserID@wxccciscolive2024.wbx.ai_):
 - Enable the microphone option as show below. 
 
-
-![Nav](./assets/task2/9.png){ width="333" }
-![Nav](./assets/task2/10.png){ width="400" }
+![Nav](./assets/task2/9.png){ width="400" }
+![Nav](./assets/task2/10.png){ width="333" }
 
 
 - Congratulations! You have complete the task.
-
-
-
-
 
 
