@@ -37,7 +37,10 @@ Please use the following credentials to complete the tasks:
 
 ![Nav](./assets/task2/4.png){ width="300" }
 
-- After the call center definition file is imported, edit it by clicking **'Edit'**.
+- Once the Save button is hit, the error message pops up "WebRTC domain is not configured" 
+
+![Nav](./assets/task2/5.png){ width="300" }
+
 - Change **'WxCC Region'** to **'us1'**.
 
 !!! note
@@ -115,5 +118,6 @@ Please use the following credentials to complete the tasks:
 
 
 - Congratulations! You have complete the task.
+
 
 
