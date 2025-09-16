@@ -19,7 +19,7 @@ Please use the following credentials to complete the tasks:
 	- Troubleshoot and configure the steps needed to enable WebRTC login
 
  
-## **Section 1 - Login with WebRTC Option**
+## **Section 1 - Using WebRTC Option**
 
 !!! warning "Attention"
 	Please use the **Firefox** browser to access, configure, and test within the Salesforce portal.
@@ -40,6 +40,7 @@ Please use the following credentials to complete the tasks:
 
 ![Nav](./assets/task2/5.png){ width="500" }
 
+## **Section 2 - Steps to correct and enable WebRTC login**
 
 - In order to mitigate this issue, on the Salesforce portal, navigate to 'Feature Settings > Service > Call Center > Call Centers' (or type Call Centers in the search bar above the left-hand menu).
 - Click 'Edit' on the the call center definition file `WxCC Call Center`
@@ -54,17 +55,20 @@ Please use the following credentials to complete the tasks:
   
 - Logout and log back in to salesforce.
 
-![Nav](./assets/task2/8.png){ width="300" }
+![Nav](./assets/task2/8.png){ width="500" }
+
+## **Section 3 - Testing**
 
 - Open the Webex Contact Center phone widget (bottom left) and login to Webex Contact Center Agent Desktop using the selected Webex Contact Center user credentials (e.g., _labuserID@wxccciscolive2024.wbx.ai_):
 - Enable the microphone option as show below. 
 
 
-![Nav](./assets/task2/9.png){ width="200" }
-![Nav](./assets/task2/10.png){ width="200" }
+![Nav](./assets/task2/9.png){ width="333" }
+![Nav](./assets/task2/10.png){ width="400" }
 
 
 - Congratulations! You have complete the task.
+
 
 
 
