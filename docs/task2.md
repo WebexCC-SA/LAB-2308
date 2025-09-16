@@ -26,14 +26,16 @@ Please use the following credentials to complete the tasks:
 
 - Navigate to Agent Desktop and select the Avatar on the top right
 
-![Nav](./assets/task2/1.png){ width="800" }
+![Nav](./assets/task2/1.png){ width="300" }
 
 - Navigate to **'Profile Settings > Desktop > Save'** (or type _Call Centers_ in the search bar above the left-hand menu).
 - Click **'Import'**, choose the call center definition file (downloaded earlier) and click **'Import'** again.
 
-![Nav](./assets/task2/2.png){ width="400" }
-![Nav](./assets/task2/3.png){ width="400" }
-![Nav](./assets/task2/4.png){ width="400" }
+![Nav](./assets/task2/2.png){ width="300" }
+
+![Nav](./assets/task2/3.png){ width="300" }
+
+![Nav](./assets/task2/4.png){ width="300" }
 
 - After the call center definition file is imported, edit it by clicking **'Edit'**.
 - Change **'WxCC Region'** to **'us1'**.
@@ -113,4 +115,5 @@ Please use the following credentials to complete the tasks:
 
 
 - Congratulations! You have complete the task.
+
 
