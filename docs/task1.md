@@ -91,7 +91,7 @@ Please use the following credentials to complete the tasks:
 ![Nav](./assets/t1s1p11.png){ width="800" }
 
 - In the next window, select **'Utility Items (Desktop Only)'**.
-- Click **'Add Utility item'** and choose **'Open CTI Softphone'**.
+- Click cAdd Utility item'** and choose **'Open CTI Softphone'**.
 
 ![Nav](./assets/t1s1p12.png){ width="600" }
 
