@@ -7,11 +7,11 @@ Please use the following credentials to complete the tasks:
 | <!-- -->                  | <!-- -->         |
 | ------------------------- | ---------------- |
 | `Control Hub`             | <a href="https://admin.webex.com" target="_blank">https://admin.webex.com</a> |
-| `Salesforce`   | <a href="https://test.salesforce.com" target="_blank">https://test.salesforce.com</a> |
-| `WxCC Username`       | labuser**ID**@wxccciscolive2024.wbx.ai     _(where **ID** is your selected pod number (01 through 10); i.e. labuser**02**@wxccciscolive2024.wbx.ai if selected pod is 2)_       |
-| `WxCC Password`       | ciscoLIVE1!         |
-| `Salesforce Username`       | As provided in the Walk-In Lab (WIL) Assistant portal       |
-| `Salesforce Password`       | As provided in the Walk-In Lab (WIL) Assistant portal       |
+| `Salesforce`   | <a href="https://login.salesforce.com" target="_blank">https://login.salesforce.com/</a> |
+| `WxCC Username`       | labuser**ID**@wx1.wbx.ai     _(where **ID** is your selected pod number (01 through 10); i.e. labuser**02**@wxccciscolive2024.wbx.ai if selected pod is 2)_       |
+| `WxCC Password`       | webexONE1!         |
+| `Salesforce Username`       | As provided by the instructor       |
+| `Salesforce Password`       | As provided by the instructor       |
 
 
 !!! abstract "Info"
