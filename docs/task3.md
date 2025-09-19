@@ -129,7 +129,7 @@ Please use the following credentials to complete the tasks:
 
 - Congratulations! You have completed the task.
 
-## **Section 4 - Testing Part 2**
+## **Section 5 - Troubleshooting Failed Sync Due to Mismatched Idle Codes
 
 
 - In Salesforce, navigate to **'Setup'** by clicking the gear icon in the top-right corner and selecting **'Setup'**.
@@ -165,7 +165,8 @@ Please use the following credentials to complete the tasks:
 ![Nav](./assets/t3s41p4.png){ width="400" }
 
 !!! warning "Reason" 
-	Omni-channel codes created on Salesforce and in Webex Contact Center needs to match in spelling and in case. 
+	    When presence status on **sfbusy** is updated to **Sfbusy**, presence sync becasue idle code on WxCC is **sfbusy**. 
+	    Omni-channel codes created on Salesforce and in Webex Contact Center needs to match in spelling and in case. 
 
 - Congratulations! You have completed the task.
 
