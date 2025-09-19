@@ -99,7 +99,7 @@ Please use the following credentials to complete the tasks:
 
 
 
-## **Section 4 - Testing 1 Part1**
+## **Section 4 - Testing Part 1**
 
 
 !!! warning "Attention"
@@ -129,7 +129,7 @@ Please use the following credentials to complete the tasks:
 
 - Congratulations! You have completed the task.
 
-## **Section 4 - Testing Part2**
+## **Section 4 - Testing Part 2**
 
 
 - In Salesforce, navigate to **'Setup'** by clicking the gear icon in the top-right corner and selecting **'Setup'**.
@@ -138,21 +138,13 @@ Please use the following credentials to complete the tasks:
 
 - Go to **'Feature Settings > Service > Omni-Channel > Presence Statuses'** (or type _Presence Statuses_ in the search bar in the left-hand menu).
 
-![Nav](./assets/t2s1p2.png){ width="800" }
-
 - Select **'Edit'** the Presence Status **sfbusy** created before 
 
-![Nav](./assets/t3s41p1.png){ width="500" }
+![Nav](./assets/t3s41p1.png){ width="600" }
 
 - Update **sfbusy** to **Sfbusy** (capitalizing the letter S) and click **'Save'**.
 
-![Nav](./assets/t3s41p2.png){ width="500" 
-
-
-- Provide the name **wxccbusy** under **'Status Name'** and select **'Busy'** under **'Status Options'**.
-
-!!! warning "Attention"
-	Please use the **Firefox** browser to access, configure, and test within the Salesforce portal.
+![Nav](./assets/t3s41p2.png){ width="500" }
 
 - Refresh Salesforce by logging out and logging back in (make sure to close any other Salesforce tabs).
 
@@ -166,13 +158,13 @@ Please use the following credentials to complete the tasks:
 
 - Open the Webex Contact Center widget (**Phone**) and change the states to **'Available'** — the Salesforce **Omni-Channel** widget status will be changed to **'Available'**
 
-![Nav](./assets/t1s2p3.png){ width="400" }
+![Nav](./assets/t1s41p3.png){ width="400" }
 
 - Test changing the state from the Salesforce **Omni-Channel** widget to **Sfbusy** and notice thatthe Webex Contact Center widget still shows as  **'Available'**
 
-![Nav](./assets/t1s2p4.png){ width="400" }
+![Nav](./assets/t1s41p4.png){ width="400" }
 
-!!! note "Reason" 
+!!! warning "Reason" 
 	Omni-channel codes created on Salesforce and in Webex Contact Center needs to match in spelling and in case. 
 
 - Congratulations! You have completed the task.
