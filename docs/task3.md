@@ -45,7 +45,7 @@ Please use the following credentials to complete the tasks:
 - Create  two new **Presence Statuses**:
 	- Click **'New'**.
 	- Provide the name **wxccbusy** under **'Status Name'** and select **'Busy'** under **'Status Options'**.
-	- Click **'Save'**.
+	- Click **'Save'** and select **`Back to List: Service Presence Statuses'**
 	- Create another **Presence Status** with the same options but use **sfbusy** under **'Status Name'**.
 
 ![Nav](./assets/t2s1p3.png){ width="500" }
@@ -55,7 +55,7 @@ Please use the following credentials to complete the tasks:
 ## **Section 2 - Enable Presence Statuses for the User Profile** 
 
 - Navigate to **'Users > Profiles'** (or type _Profiles_ in the search bar in the left-hand menu).
-- Locate the **'System Administrator'** profile and click on it (do not click **'Edit'**).
+- Locate the **'System Administrator'** profile (select **`Next`** at the bottom to go to the next page) and click on it (do not click **'Edit'**).
 
 !!! note
 	For the purpose of this exercise, the **'System Administrator'** profile is used. Under normal circumstances, any other profile may be used by users.
