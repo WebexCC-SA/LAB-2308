@@ -158,11 +158,11 @@ Please use the following credentials to complete the tasks:
 
 - Open the Webex Contact Center widget (**Phone**) and change the states to **'Available'** — the Salesforce **Omni-Channel** widget status will be changed to **'Available'**
 
-![Nav](./assets/t1s41p3.png){ width="400" }
+![Nav](./assets/t3s41p3.png){ width="400" }
 
 - Test changing the state from the Salesforce **Omni-Channel** widget to **Sfbusy** and notice thatthe Webex Contact Center widget still shows as  **'Available'**
 
-![Nav](./assets/t1s41p4.png){ width="400" }
+![Nav](./assets/t3s41p4.png){ width="400" }
 
 !!! warning "Reason" 
 	Omni-channel codes created on Salesforce and in Webex Contact Center needs to match in spelling and in case. 
