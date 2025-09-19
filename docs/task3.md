@@ -129,7 +129,7 @@ Please use the following credentials to complete the tasks:
 
 - Congratulations! You have completed the task.
 
-## **Section 5 - Troubleshooting Failed Sync Due to Mismatched Idle Codes
+## Section 5 - Troubleshooting Failed Sync Due to Mismatched Idle Codes
 
 
 - In Salesforce, navigate to **'Setup'** by clicking the gear icon in the top-right corner and selecting **'Setup'**.
