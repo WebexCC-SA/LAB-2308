@@ -59,15 +59,15 @@ Subject={subject},Description={description}
 ![Nav](./assets/t1s2p1.png){ width="400" }
 
 - Open the Webex Contact Center phone widget and login using the selected Webex Contact Center credentials.
-- For the team use **AITeamN** (where **'N'** is your lab user number, e.g., _labuser0**7**@wxccciscolive2024.wbx.ai_).
+- For the team use **Salesforce Team**.
 
 !!! note "Reminder" 
-	Please select the **'Extension'** option for the phone number. Use the extension number and team assignment based on your lab user number.
+	Please select the **'Desktop'** option for the phone number. Use the extension number and team assignment based on your lab user number.
 
 
 Making a test call:
 
-- Make sure that agent state is set to 'Available' and then call the channel number (as noted in the **Task 3**). In the IVR, choose **Option 5**.
+- Make sure that agent state is set to 'Available' and then call the channel number (as noted in the **Task 4**). In the IVR, choose **Option 6**.
 - A new case is automatically created, and the configured fields are prefilled with the call data.
 
 ![Nav](./assets/t5s2p3a.png){ width="1200" }
