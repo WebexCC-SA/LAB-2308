@@ -8,7 +8,7 @@ Please use the following credentials to complete the tasks:
 | ------------------------- | ---------------- |
 | `Control Hub`             | <a href="https://admin.webex.com" target="_blank">https://admin.webex.com</a> |
 | `Salesforce`   | <a href="https://login.salesforce.com" target="_blank">https://login.salesforce.com/</a> |
-| `WxCC Username`       | labuser**ID**@wx1.wbx.ai     _(where **ID** is your selected pod number (01 through 10); i.e. labuser**02**@wxccciscolive2024.wbx.ai if selected pod is 2)_       |
+| `WxCC Username`       | labuser**ID**@wx1.wbx.ai     _(where **ID** is your selected pod number (01 through 10); i.e. labuser**02**@wx1.wbx.ai if selected pod is 2)_       |
 | `WxCC Password`       | webexONE1!         |
 | `Salesforce Username`       | As provided by the instructor       |
 | `Salesforce Password`       | As provided by the instructor       |
@@ -111,7 +111,7 @@ Phone={ani}
 ![Nav](./assets/t1s2p1.png){ width="400" }
 
 - Open the Webex Contact Center phone widget and login using the selected Webex Contact Center credentials.
-- For the team use **AITeamN** (where **'N'** is your lab user number, e.g., _labuser**7**@wx1.wbx.ai_).
+- For the team use **Salesforce Team**.
 
 !!! note "Reminder" 
 	Please select the **'Desktop'** option for the phone number.
