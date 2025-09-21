@@ -117,14 +117,14 @@ Phone={ani}
 	Please select the **'Desktop'** option for the phone number.
 
 
-- Make sure that the agent state is set to 'Available' and then call the channel number (noted from the steps above). In the IVR, choose **option 3**.
+- Make sure that the agent state is set to 'Available' and then call the channel number (noted from the steps above). In the IVR, choose **option 4**.
 - Since Salesforce does not recognize your number, a new **Contact** create window will open with the phone number prefilled.
 - Provide a name and save the contact in Salesforce.
 
 ![Nav](./assets/t3s3p1.png){ width="1000" }
 
 - End the call.
-- Wrapup the session, make sure that the agent state is set to 'Available' and make another call. In the IVR, choose **option 3** again.
+- Wrapup the session, make sure that the agent state is set to 'Available' and make another call. In the IVR, choose **option 4** again.
 - This time, the system will open the matching contact, as it was created in the previous step.
 
 ![Nav](./assets/t3s3p2.png){ width="400" }
