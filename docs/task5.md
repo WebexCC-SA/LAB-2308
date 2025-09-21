@@ -59,15 +59,16 @@ Please use the following credentials to complete the tasks:
 - For the team use **AITeamN** (where **'N'** is your lab user number, e.g., _labuser0**7**@wxccciscolive2024.wbx.ai_).
 
 !!! note "Reminder" 
-	Please select the **'Extension'** option for the phone number. Use the extension number and team assignment based on your lab user number.
+	Please select the **'Desktop'** option for the phone number. 
 
 
 First call interaction:
 
-- Make sure that the agent state is set to 'Available' and then call the channel number (as noted in the **Task 3**). In the IVR, choose **Option 3**.
+- Make sure that the agent state is set to 'Available' and then call the channel number (as noted in the **Task 4**). In the IVR, choose **Option 4**.
 - Create a new case through the Webex Contact Center widget and note down the **case number** - it's going to be needed for the second call below.
 
-![Nav](./assets/t4s1p2.png){ width="400" }
+![Nav](./assets/t4s1p2.png){ width="333" }
+![Nav](./assets/t4s1p21.png){ width="333" }
 
 - End the call.
 - Wrap up the session.
@@ -78,7 +79,7 @@ First call interaction:
 
 Second call interaction:
 
-- Make sure that agent state is set to 'Available' and then call the channel number again. In the IVR, choose **Option 4**.
+- Make sure that agent state is set to 'Available' and then call the channel number again. In the IVR, choose **Option 5**.
 - Provide the case number that was created during the previous call.
 - The existing case should be displayed, and the case list should be displayed in a new tab.
 
