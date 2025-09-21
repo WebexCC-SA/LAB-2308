@@ -114,7 +114,7 @@ Phone={ani}
 - For the team use **AITeamN** (where **'N'** is your lab user number, e.g., _labuser**7**@wx1.wbx.ai_).
 
 !!! note "Reminder" 
-	Please select the **'Extension'** option for the phone number. Use the extension number and team assignment based on your lab user number.
+	Please select the **'Desktop'** option for the phone number.
 
 
 - Make sure that the agent state is set to 'Available' and then call the channel number (noted from the steps above). In the IVR, choose **option 3**.
