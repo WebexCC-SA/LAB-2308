@@ -115,8 +115,7 @@ Please use the following credentials to complete the tasks:
 ![Nav](./assets/t1s2p1.png){ width="400" }
 
 !!! note "Reminder" 
-	Please select the **'Extension'** option for the phone number. Use the extension number and team assignment based on your lab user number.
-
+	Please select the **'Desktop'** option for the phone number.
 
 - Open the Webex Contact Center widget (**Phone**) and change the states (e.g., _sfbusy_, _available_) — the Salesforce **Omni-Channel** widget status should follow accordingly.
 - Test changing the state from the Salesforce **Omni-Channel** widget — the Webex Contact Center widget should follow as well.
