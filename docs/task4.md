@@ -56,7 +56,7 @@ Phone={ani}
 
 ![Nav](./assets/t3s2p1.png){ width="200" }
 
-- Copy the flow named **CLUS25_Salesforce_Template_DO_NOT_MODIFY** (the **'Copy'** option is on the right-hand side).
+- Copy the flow named **WX1_Salesforce_Template_DO_NOT_MODIFY** (the **'Copy'** option is on the right-hand side).
 
 ![Nav](./assets/t3s2p2.png){ width="1000" }
 
@@ -64,20 +64,20 @@ Phone={ani}
 
 ![Nav](./assets/t3s2p21.png){ width="400" }
 
-- Rename the flow to something more identifiable and personal (e.g., _labcol2010_andy_) by clicking the dropdown next to the flow name and selecting **'Edit Name'** (make sure **'Edit'** is set to **'On'**).
+- Rename the flow to something more identifiable and personal (e.g., _labuser01_bhu_) by clicking the dropdown next to the flow name and selecting **'Edit Name'** (make sure **'Edit'** is set to **'On'**).
 
 ![Nav](./assets/t3s2p3.png){ width="800" }
 
-- Click on the **'QueueContact'** node and select **AIQueueN** (where **'N'** is your lab user number, e.g., _labuser0**7**@wxccciscolive2024.wbx.ai_).
+- Click on the **'QueueContact'** node and select **Salesforce_Queue**
 
 ![Nav](./assets/t3s2p4.png){ width="1000" }
 
 - Click on an empty space in the flow, then on the right-hand side, navigate to **'Custom Variables > Flow Variables'** section.
-- Click on **sfurl** flow variable, select the **'Edit'** option (pencil icon), enter the fully qualified domain name (FQDN) from your Salesforce lab (e.g., _basslake-lagoon-6042-dev-ed.scratch.lightning.force.com_; without **_http://_**) as the Default Value, and click **'Save'**.
+- Click on **sfurl** flow variable, select the **'Edit'** option (pencil icon), enter the fully qualified domain name (FQDN) from your Salesforce lab (e.g., _wx1-lab01-dev-ed.develop.lightning.force.com_; without **_http://_**) as the Default Value, and click **'Save'**.
 
 !!! warning "Attention" 
 	The FQDN used for the **sfurl** variable must end with **.scratch.lightning.force.com**. While logged into the Salesforce portal, you can find the name of the Salesforce organization in the browser's address field.
-	Note that the Salesforce Setup page will have a different domain ending (it does not end with **.scratch.lightning.force.com**). To obtain the correct FQDN, you can either navigate to the Salesforce Sales app and copy the full FQDN from the browser's address field there, or copy the Salesforce organization name from the Salesforce Setup page from the browser's address field and append it with **.scratch.lightning.force.com**.
+	Note that the Salesforce Setup page will have a different domain ending (it does not end with **.lightning.force.com**). To obtain the correct FQDN, you can either navigate to the Salesforce Sales app and copy the full FQDN from the browser's address field there, or copy the Salesforce organization name from the Salesforce Setup page from the browser's address field and append it with **.lightning.force.com**.
 
 ![Nav](./assets/t3s2p5.png){ width="500" }
 ![Nav](./assets/t3s2p6.png){ width="500" }
@@ -90,7 +90,7 @@ Phone={ani}
 
 ![Nav](./assets/t3s2p8.png){ width="200" }
 
-- Open **AIChannelN** (where **'N'** is your lab user number, e.g., _labuser0**7**@wxccciscolive2024.wbx.ai_), associate your newly created flow under 'Routing Flow' (note down the **'Support Number'** associated with this channel - it will be needed later in this lab for testing) and click **'Save'**.
+- Open **WebexOne_AI_EntryPoint_N** (where **'N'** is your lab user number, e.g., _labuser0**7**@wx1.wbx.ai _), associate your newly created flow under 'Routing Flow' (note down the **'Support Number'** associated with this channel - it will be needed later in this lab for testing) and click **'Save'**.
 
 ![Nav](./assets/t3s2p9.png){ width="1000" }
 
@@ -111,7 +111,7 @@ Phone={ani}
 ![Nav](./assets/t1s2p1.png){ width="400" }
 
 - Open the Webex Contact Center phone widget and login using the selected Webex Contact Center credentials.
-- For the team use **AITeamN** (where **'N'** is your lab user number, e.g., _labuser**7**@wxccciscolive.wbx.ai_).
+- For the team use **AITeamN** (where **'N'** is your lab user number, e.g., _labuser**7**@wx1.wbx.ai_).
 
 !!! note "Reminder" 
 	Please select the **'Extension'** option for the phone number. Use the extension number and team assignment based on your lab user number.
