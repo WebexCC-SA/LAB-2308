@@ -50,6 +50,9 @@ Please use the following credentials to complete the tasks:
 
 ![Nav](./assets/task2/7.png){ width="500" }
 
+!!! note
+	The region defined here should match your Webex Contact Center region. Please refer to the [_Call Center configuration customizations_](https://help.webex.com/en-us/article/dyidod/Integrate-Webex-Contact-Center-with-Salesforce-(Version-2-New)#reference-template_2cf241c7-ade1-49d6-9582-b38467cb85f4) section for the list of the domains for other regions
+    
 - Click **'Save'**.
   
 - Logout and log back in to salesforce.
@@ -58,7 +61,7 @@ Please use the following credentials to complete the tasks:
 
 ## **Section 3 - Testing**
 
-- Open the Webex Contact Center phone widget (bottom left) and login to Webex Contact Center Agent Desktop using the selected Webex Contact Center user credentials (e.g., _labuserID@wxccciscolive2024.wbx.ai_):
+- Open the Webex Contact Center phone widget (bottom left) and login to Webex Contact Center Agent Desktop using the selected Webex Contact Center user credentials (e.g., _labuserID@wwx1.wbx.ai_):
 - Enable the microphone option as show below. 
 
 ![Nav](./assets/task2/9.png){ width="400" }
@@ -66,6 +69,7 @@ Please use the following credentials to complete the tasks:
 
 
 - Congratulations! You have complete the task.
+
 
 
 
