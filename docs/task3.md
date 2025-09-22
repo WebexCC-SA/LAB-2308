@@ -164,8 +164,9 @@ Please use the following credentials to complete the tasks:
 ![Nav](./assets/t3s41p4.png){ width="400" }
 
 !!! warning "Reason" 
-	    When presence status on **sfbusy** is updated to **Sfbusy**, presence sync becasue idle code on WxCC is **sfbusy**. 
-	    Omni-channel codes created on Salesforce and in Webex Contact Center needs to match in spelling and in case. 
+    When presence status on **sfbusy** is updated to **Sfbusy**, presence sync becasue idle code on WxCC is **sfbusy**. 
+	Omni-channel codes created on Salesforce and in Webex Contact Center needs to match in spelling and in case. 
+    Please refer to the [_Omni-Channel State Sync Configuration_](https://help.webex.com/en-us/article/dyidod/Integrate-Webex-Contact-Center-with-Salesforce-(Version-2-New)#reference-template_2cf241c7-ade1-49d6-9582-b38467cb85f4) section for the external documentation  
 
 - Congratulations! You have completed the task.
 
