@@ -15,6 +15,7 @@ Please use the following credentials to complete the tasks:
 
 !!! abstract "Info"
 	This task demonstrates the automatic case creation capability using the new Webex Contact Center (WXCC) Salesforce Connector, leveraging custom CAD variables from Webex Contact Center.
+    In this section we will pass the Call Session ID in the case on salesforce if this needs to be gathered for troubleshooting purposes. 
 
 !!! info "Task Objectives"
 	- Enable auto case creation via the Salesforce Call Center configuration file.
