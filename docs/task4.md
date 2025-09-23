@@ -52,6 +52,10 @@ Phone={ani}
 ## **Section 2 - Webex Contact Center Configuration**
 
 - Log in to the <a href="https://admin.webex.com" target="_blank">https://admin.webex.com</a> using the credentials provided at the top of this page.
+- Click on Contact Center in the left-hand side navigation pane of the Webex Control Hub. 
+
+![Nav](./assets/t3s2p1aa.png){ width="200" }
+
 - After logging in, navigate to the **'Flows'** menu on the left-hand side.
 
 ![Nav](./assets/t3s2p1.png){ width="200" }
@@ -60,7 +64,7 @@ Phone={ani}
 
 ![Nav](./assets/t3s2p2.png){ width="1000" }
 
-- Open the copied flow by clicking the square 'Go to' button on the right hand side.
+- Copied flow will show up at the top of the flows list. Scroll up and open the **copied flow** by clicking the square **'Go to'** button on the right hand side.
 
 ![Nav](./assets/t3s2p21.png){ width="400" }
 
@@ -76,7 +80,7 @@ Phone={ani}
 - Click on **sfurl** flow variable, select the **'Edit'** option (pencil icon), enter the fully qualified domain name (FQDN) from your Salesforce lab (e.g., _wx1-lab01-dev-ed.develop.lightning.force.com_; without **_http://_**) as the Default Value, and click **'Save'**.
 
 !!! warning "Attention" 
-	The FQDN used for the **sfurl** variable must end with **.scratch.lightning.force.com**. While logged into the Salesforce portal, you can find the name of the Salesforce organization in the browser's address field.
+	The FQDN used for the **sfurl** variable must end with **.lightning.force.com**. While logged into the Salesforce portal, you can find the name of the Salesforce organization in the browser's address field.
 	Note that the Salesforce Setup page will have a different domain ending (it does not end with **.lightning.force.com**). To obtain the correct FQDN, you can either navigate to the Salesforce Sales app and copy the full FQDN from the browser's address field there, or copy the Salesforce organization name from the Salesforce Setup page from the browser's address field and append it with **.lightning.force.com**.
 
 ![Nav](./assets/t3s2p5.png){ width="500" }
