@@ -42,7 +42,7 @@ Please use the following credentials to complete the tasks:
 Subject={subject},Description={description}
 ``` 
 
-![Nav](./assets/t5s1p3.png){ width="500" }
+![Nav](./assets/t5s1p3.png){ width="700" }
 
 
 ## **Section 2 - Testing**
