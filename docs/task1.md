@@ -25,7 +25,7 @@ Please use the following credentials to complete the tasks:
 !!! warning "Attention"
 	Please use the **Firefox** browser to access, configure, and test within the Salesforce portal.
 
-- Navigate to Salesforce portal and log in with the credentials provided in the Walk-In Lab (WIL) Assistant portal.
+- Navigate to Salesforce portal and log in with the credentials provided.
 
 !!! note
 	The package for the WxCC V2 Salesforce connector is already pre-installed. In production environments, it will need to be installed manually and can be retrieved from <a href="https://login.salesforce.com/packaging/installPackage.apexp?p0=04tUl000000VK45IAG" target="_blank">this link</a>.
