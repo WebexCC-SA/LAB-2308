@@ -38,6 +38,8 @@ Please use the following credentials to complete the tasks:
 
 - Under **'Advanced Screen Pop Search Configuration'**, set **'CAD Variable Name'** to **caseid** (type it in manually).
 
+- Then click **'Save'**
+
 ![Nav](./assets/t4s1p1.png){ width="500" }
 
 
@@ -56,7 +58,7 @@ Please use the following credentials to complete the tasks:
 ![Nav](./assets/t1s2p1.png){ width="400" }
 
 - Open the Webex Contact Center phone widget and login using the selected Webex Contact Center credentials.
-- For the team use **AITeamN** (where **'N'** is your lab user number, e.g., _labuser0**7**@wxccciscolive2024.wbx.ai_).
+- For the team use **Salesforce_Team**. 
 
 !!! note "Reminder" 
 	Please select the **'Desktop'** option for the phone number. 
