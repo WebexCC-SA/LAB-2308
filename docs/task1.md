@@ -74,7 +74,7 @@ Please use the following credentials to complete the tasks:
 - Select the **'Is Default Layout'** checkbox.
 - Under **'Display these salesforce.com objects'**, click on **'Add/Remove Objects'** and add 'Case'. 
 
-![Nav](./assets/t1s1p9a.png){ width="600" }
+![Nav](./assets/t1s1p9a.png){ width="800" }
 
 ![Nav](./assets/t1s1p9.png){ width="600" }
 
