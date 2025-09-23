@@ -37,10 +37,10 @@ Please use the following credentials to complete the tasks:
 ![Nav](./assets/t2s3p1.png){ width="800" }
 
 - Under **'Advanced Screen Pop Search Configuration'**, remove **'CAD Variable Name'** value (make it empty).
-- Under **'Case Management'**, set **'Auto Case Creation For Inbound Calls'** to **true** (type it in manually) and **'Object Field Mappings'** as follows:
+- Under **'Case Management'**, set **'Auto Case Creation For Inbound Calls'** to **true** (type it in manually) and **'Object Field Mappings'** as follows and click **'Save'**:
 ```cli
 Subject={subject},Description={description}
-```
+``` 
 
 ![Nav](./assets/t5s1p3.png){ width="500" }
 
@@ -69,6 +69,7 @@ Subject={subject},Description={description}
 Making a test call:
 
 - Make sure that agent state is set to 'Available' and then call the channel number (as noted in the **Task 4**). In the IVR, choose **Option 6**.
+- Answer the call on the agent desktop
 - A new case is automatically created, and the configured fields are prefilled with the call data.
 
 ![Nav](./assets/t5s2p3a.png){ width="1200" }
