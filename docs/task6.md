@@ -72,7 +72,7 @@ Making a test call:
 - Answer the call on the agent desktop
 - A new case is automatically created, and the configured fields are prefilled with the call data.
 
-![Nav](./assets/t5s2p3a.png){ width="1200" }
+![Nav](./assets/t5s2p3a.png){ width="1400" }
 
 - End the call.
 - Congratulations! You have complete the task and the lab!
