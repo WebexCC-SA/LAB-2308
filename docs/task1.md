@@ -72,7 +72,9 @@ Please use the following credentials to complete the tasks:
 
 - Provide a name for the **'Softphone Layout'** (e.g., _WxCC layout_).
 - Select the **'Is Default Layout'** checkbox.
-- Under **'Display these salesforce.com objects'**, add **'Case'**.
+- Under **'Display these salesforce.com objects'**, click on **'Add/Remove Objects'** and add 'Case'. 
+
+![Nav](./assets/t1s1p9a.png){ width="600" }
 
 ![Nav](./assets/t1s1p9.png){ width="600" }
 
@@ -90,7 +92,7 @@ Please use the following credentials to complete the tasks:
 ## **Section 3 - Configure CTI Softphone**
 
 - Navigate to **'Apps > App Manager'** (or type _App Manager_ in the search bar above the left-hand menu).
-- For the **'Sales'** app (line number 17; **'LightningSales'** developer) click **'Edit'** on the right-hand side.
+- For the **'Sales'** app (line number 18; **'LightningSales'** developer) click **'Edit'** on the right-hand side.
 
 ![Nav](./assets/t1s1p11.png){ width="800" }
 
