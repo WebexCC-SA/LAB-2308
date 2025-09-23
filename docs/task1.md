@@ -43,7 +43,7 @@ Please use the following credentials to complete the tasks:
 - Click **'Import'**, choose the call center definition file (downloaded earlier) and click **'Import'** again.
 
 ![Nav](./assets/t1s1p1b.png){ width="800" }
-![Nav](./assets/t1s1p3.png){ width="500" }
+![Nav](./assets/t1s1p3.png){ width="800" }
 
 - After the call center definition file is imported, edit it by clicking **'Edit'**.
 - Change **'WxCC Region'** to **'us1'**.
@@ -74,7 +74,7 @@ Please use the following credentials to complete the tasks:
 - Select the **'Is Default Layout'** checkbox.
 - Under **'Display these salesforce.com objects'**, click on **'Add/Remove Objects'** and add 'Case'. 
 
-![Nav](./assets/t1s1p9a.png){ width="800" }
+![Nav](./assets/t1s1p9a.png){ width="1000" }
 
 ![Nav](./assets/t1s1p9.png){ width="600" }
 
