@@ -54,7 +54,7 @@ Phone={ani}
 - Log in to the <a href="https://admin.webex.com" target="_blank">https://admin.webex.com</a> using the credentials provided at the top of this page.
 - Click on Contact Center in the left-hand side navigation pane of the Webex Control Hub. 
 
-![Nav](./assets/t3s2p1aa.png){ width="200" }
+![Nav](./assets/t3s2p1aa.png){ width="500" }
 
 - After logging in, navigate to the **'Flows'** menu on the left-hand side.
 
