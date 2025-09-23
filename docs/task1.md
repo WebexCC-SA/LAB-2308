@@ -94,7 +94,7 @@ Please use the following credentials to complete the tasks:
 - Navigate to **'Apps > App Manager'** (or type _App Manager_ in the search bar above the left-hand menu).
 - For the **'Sales'** app (line number 18; **'LightningSales'** developer) click **'Edit'** on the right-hand side.
 
-![Nav](./assets/t1s1p11.png){ width="800" }
+![Nav](./assets/t1s1p11.png){ width="1100" }
 
 - In the next window, select **'Utility Items (Desktop Only)'**.
 - Click **'Add Utility item'** and choose **'Open CTI Softphone'**.
