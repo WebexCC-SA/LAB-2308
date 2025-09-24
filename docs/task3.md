@@ -99,7 +99,7 @@ Please use the following credentials to complete the tasks:
 
 
 
-## **Section 4 - Testing Part 1**
+## **Section 4 - Testing Omni Sync Presence**
 
 
 !!! warning "Attention"
