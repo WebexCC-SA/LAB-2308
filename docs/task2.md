@@ -66,14 +66,27 @@ Please use the following credentials to complete the tasks:
 
 ## **Section 3 - Testing**
 
-- Open the Webex Contact Center phone widget (bottom left) and login to Webex Contact Center Agent Desktop using the selected Webex Contact Center user credentials (e.g., _labuserID@wwx1.wbx.ai_):
-- Enable the microphone option as show below. 
+!!! warning "Attention"
+	Please use the **Firefox** browser to access, configure, and test within the Salesforce portal.
+
+- Open the Webex Contact Center phone widget (bottom left) and login to Webex Contact Center Agent Desktop using the selected Webex Contact Center user credentials (e.g., _labuserID@wx1.wbx.ai_):
+- Enable the microphone option as show below if prompted. 
 
 ![Nav](./assets/task2/9.png){ width="400" }
 ![Nav](./assets/task2/10.png){ width="333" }
 
+- Navigate to Agent Desktop and select the Avatar on the top right
+
+![Nav](./assets/task2/1.png){ width="500" }
+
+- Notice the agent is now setup with WebRTC 
+
+![Nav](./assets/task2/12.png){ width="500" }
+
+
 
 - Congratulations! You have complete the task.
+
 
 
 
