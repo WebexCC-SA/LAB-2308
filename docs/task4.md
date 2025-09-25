@@ -37,7 +37,7 @@ Please use the following credentials to complete the tasks:
 ![Nav](./assets/t2s3p1.png){ width="800" }
 
 - Under **'Advanced Screen Pop Search Configuration'**, change **'Advanced Screen Pop Enabled'** to **true** (type it in manually).
-- For **'CAD Variable Name'**, use _ani_.
+- For **'CAD Variable Name'**, use **_ani_**.
 - Under **'Screen Pop Settings for No Record Match'**, populate **'Object Field Mappings'** as follows:
 
 ``` ios
@@ -105,14 +105,9 @@ Phone={ani}
 !!! warning "Attention"
 	Please use the **Firefox** browser to access, configure, and test within the Salesforce portal.
 
-- Refresh Salesforce by logging out and logging back in (make sure to close any other Salesforce tabs).
+- Refresh Salesforce by logging out and logging back in (**make sure to close any other Salesforce tabs**).
 
-![Nav](./assets/t2s4p1a.png){ width="400" }
-
-- Click on the **'App Launcher'** icon (top left).
-- Search for _Sales_ and click on the **'Sales'** option.
-
-![Nav](./assets/t1s2p1.png){ width="400" }
+![Nav](./assets/t2s4p1a.png){ width="500" }
 
 - Open the Webex Contact Center phone widget and login using the selected Webex Contact Center credentials.
 - For the team use **Salesforce Team**.
@@ -120,6 +115,7 @@ Phone={ani}
 !!! note "Reminder" 
 	Please select the **'Desktop'** option for the phone number.
 
+![Nav](./assets/task2/4.png){ width="500" }
 
 - Make sure that the agent state is set to 'Available' and then call the channel number (noted from the steps above). In the IVR, choose **option 4**.
 - Since Salesforce does not recognize your number, a new **Contact** create window will open with the phone number prefilled.
