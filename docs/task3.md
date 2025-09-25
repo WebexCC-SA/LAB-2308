@@ -135,11 +135,11 @@ Please use the following credentials to complete the tasks:
 
 - Select **'Edit'** the Presence Status **sfbusy** created before 
 
-![Nav](./assets/t3s41p1.png){ width="600" }
+![Nav](./assets/t3s41p1.png){ width="700" }
 
 - Update **sfbusy** to **Sfbusy** (capitalizing the letter S) and click **'Save'**.
 
-![Nav](./assets/t3s41p2.png){ width="500" }
+![Nav](./assets/t3s41p2.png){ width="700" }
 
 - Refresh Salesforce by logging out and logging back in (**make sure to close any other Salesforce tabs**).
 
