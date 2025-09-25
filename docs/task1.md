@@ -40,7 +40,8 @@ Please use the following credentials to complete the tasks:
 ![Nav](./assets/t2s1p1.png){ width="350" }
 
 - In the Salesforce portal, navigate to **'Feature Settings > Service > Call Center > Call Centers'** (or type _Call Centers_ in the search bar above the left-hand menu).
-- Click **'Import'**, choose the call center definition file (downloaded earlier) and click **'Browse'**.
+- Click **'Import'**, select **'Browse'** and choose the call center definition file (downloaded earlier).
+- Click **'Import'** again to save the added file.
 
 ![Nav](./assets/t1s1p1b.png){ width="800" }
 ![Nav](./assets/t1s1p3.png){ width="700" }
