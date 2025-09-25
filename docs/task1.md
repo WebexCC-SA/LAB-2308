@@ -108,6 +108,7 @@ Please use the following credentials to complete the tasks:
 
 - Click **'Save'** and return to the previous page by clicking the back arrow icon at the top left corner.
 
+![Nav](./assets/t1s1p13aa.png){ width="500" }
 
 
 ## **Section 4 - Testing**
