@@ -105,14 +105,10 @@ Please use the following credentials to complete the tasks:
 !!! warning "Attention"
 	Please use the **Firefox** browser to access, configure, and test within the Salesforce portal.
 
-- Refresh Salesforce by logging out and logging back in (make sure to close any other Salesforce tabs).
+- Refresh Salesforce by logging out and logging back in (**make sure to close any other Salesforce tabs**).
 
 ![Nav](./assets/t2s4p1a.png){ width="500" }
 
-- Click on the **'App Launcher'** icon (top left).
-- Search for _Sales_ and click on the **'Sales'** option.
-
-![Nav](./assets/t1s2p1.png){ width="400" }
 
 !!! note "Reminder" 
 	Please select the **'Desktop'** option for the phone number.
@@ -145,13 +141,7 @@ Please use the following credentials to complete the tasks:
 
 ![Nav](./assets/t3s41p2.png){ width="500" }
 
-- Refresh Salesforce by logging out and logging back in (make sure to close any other Salesforce tabs).
-
-![Nav](./assets/t2s4p1a.png){ width="500" }
-
-- Click on the **'App Launcher'** icon (top left).
-- Search for _Sales_ and click on the **'Sales'** option.
-
+- Refresh Salesforce by logging out and logging back in (**make sure to close any other Salesforce tabs**).
 
 ![Nav](./assets/t1s2p1.png){ width="400" }
 
