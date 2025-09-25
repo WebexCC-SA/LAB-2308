@@ -143,7 +143,7 @@ Please use the following credentials to complete the tasks:
 
 - Refresh Salesforce by logging out and logging back in (**make sure to close any other Salesforce tabs**).
 
-![Nav](./assets/t1s2p1.png){ width="400" }
+![Nav](./assets/t2s4p1a.png){ width="500" }
 
 - Open the Webex Contact Center widget (**Phone**) and change the states to **'Available'** — the Salesforce **Omni-Channel** widget status will be changed to **'Available'**
 
