@@ -116,15 +116,17 @@ Please use the following credentials to complete the tasks:
 !!! warning "Attention"
 	Please use the **Firefox** browser to access, configure, and test within the Salesforce portal.
 
-- Click on the **'App Launcher'** icon (top left).
+- From the Salesforce Home page, click on the **'App Launcher'** icon (top left).
 - Search for _Sales_ and click on the **'Sales'** option.
 
 ![Nav](./assets/t1s2p1.png){ width="400" }
 
 - Open the Webex Contact Center phone widget (bottom left) and login to Webex Contact Center Agent Desktop using the selected Webex Contact Center user credentials (e.g., _labuser**ID**@wx1.wbx.ai_):
-  	- For the phone number, select **'Extension'** and enter the extension in the format 10**NN** (where **'NN'** is your lab user number, e.g., _labuser**ID**@wx1.wbx.ai_)':
+  	- First time login into agent desktop could prompt you the OAuth2 Consent as shown in the first screenshot below. Hit **Accept** to continue
+	- For the phone number, select **'Extension'** and enter the extension in the format 10**NN** (where **'NN'** is your lab user number, e.g., _labuser**ID**@wx1.wbx.ai_)':
 	- For the team use **Salesforce Team**. 
-
+	
+![Nav](./assets/t1s2p2a.png){ width="333" }
 ![Nav](./assets/t1s2p2.png){ width="333" }
 ![Nav](./assets/t1s2p3a.png){ width="326" }
 ![Nav](./assets/t1s2p4.png){ width="333" }
