@@ -123,10 +123,13 @@ Please use the following credentials to complete the tasks:
 
 - Open the Webex Contact Center phone widget (bottom left) and login to Webex Contact Center Agent Desktop using the selected Webex Contact Center user credentials (e.g., _labuser**ID**@wx1.wbx.ai_):
   	- First time login into agent desktop could prompt you the OAuth2 Consent as shown in the first screenshot below. Hit **Accept** to continue
+
+	![Nav](./assets/t1s2p2a.png){ width="400" }
+
+	
 	- For the phone number, select **'Extension'** and enter the extension in the format 10**NN** (where **'NN'** is your lab user number, e.g., _labuser**ID**@wx1.wbx.ai_)':
 	- For the team use **Salesforce Team**. 
 	
-![Nav](./assets/t1s2p2a.png){ width="333" }
 ![Nav](./assets/t1s2p2.png){ width="333" }
 ![Nav](./assets/t1s2p3a.png){ width="326" }
 ![Nav](./assets/t1s2p4.png){ width="333" }
