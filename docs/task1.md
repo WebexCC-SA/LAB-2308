@@ -57,7 +57,7 @@ Please use the following credentials to complete the tasks:
 - Click **'Save'**.
 - Add users to the Call Center:
 	- Click **'Manage Call Center Users'** at the bottom of the page and then **'Add More Users'**.
-	- Click **'Find'**, select the user in use (_User, User_), and click **'Add to Call Center'**.
+	- Click **'Find'**, select the lab user in use (_labuser**ID**@wx1.wbx.ai_), and click **'Add to Call Center'**.
 
 ![Nav](./assets/t1s1p5.png){ width="500" }
 ![Nav](./assets/t1s1p7.png){ width="800" }
