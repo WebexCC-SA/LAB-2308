@@ -1,4 +1,4 @@
-# Task 2 - Integrate Saleforce Connector with WebRTC
+# Task 2 - Integrate Salesforce Connector with WebRTC
 
 
 
@@ -69,6 +69,7 @@ Please use the following credentials to complete the tasks:
 
 
 - Congratulations! You have complete the task.
+
 
 
 
