@@ -49,11 +49,11 @@ Please use the following credentials to complete the tasks:
 
 - Click 'Edit' on the the call center definition file **`WxCC Call Center`**
   
-![Nav](./assets/task2/6.png){ width="800" }
+![Nav](./assets/task2/6.png){ width="600" }
 
 - Enter **'rtw.prod-us1.rtmsprod.net'** in the **'WxCC WebRTC Domain'**
 
-![Nav](./assets/task2/7.png){ width="800" }
+![Nav](./assets/task2/7.png){ width="600" }
 
 !!! note
 	The region defined here should match your Webex Contact Center region. Please refer to the [_Call Center configuration customizations_](https://help.webex.com/en-us/article/dyidod/Integrate-Webex-Contact-Center-with-Salesforce-(Version-2-New)#reference-template_2cf241c7-ade1-49d6-9582-b38467cb85f4) section for the list of the domains for other regions
@@ -62,7 +62,7 @@ Please use the following credentials to complete the tasks:
   
 - Logout and log back in to salesforce.
 
-![Nav](./assets/task2/8.png){ width="800" }
+![Nav](./assets/task2/8.png){ width="600" }
 
 ## **Section 3 - Testing**
 
@@ -74,6 +74,7 @@ Please use the following credentials to complete the tasks:
 
 
 - Congratulations! You have complete the task.
+
 
 
 
