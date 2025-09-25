@@ -104,7 +104,7 @@ Please use the following credentials to complete the tasks:
 
 - Select **'Add Utility item'** and choose **'Omni-Channel'**.
 
-![Nav](./assets/t1s1p13.png){ width="600" }
+![Nav](./assets/t1s1p13.png){ width="700" }
 
 - Click **'Save'** and return to the previous page by clicking the back arrow icon at the top left corner.
 
@@ -121,8 +121,8 @@ Please use the following credentials to complete the tasks:
 
 ![Nav](./assets/t1s2p1.png){ width="400" }
 
-- Open the Webex Contact Center phone widget (bottom left) and login to Webex Contact Center Agent Desktop using the selected Webex Contact Center user credentials (e.g., _labuserID@wxccciscolive2024.wbx.ai_):
-  	- For the phone number, select **'Extension'** and enter the extension in the format 10**NN** (where **'NN'** is your lab user number, e.g., _labuser**01**@wxccciscolive2024.wbx.ai_)':
+- Open the Webex Contact Center phone widget (bottom left) and login to Webex Contact Center Agent Desktop using the selected Webex Contact Center user credentials (e.g., _labuser**ID**@wx1.wbx.ai_):
+  	- For the phone number, select **'Extension'** and enter the extension in the format 10**NN** (where **'NN'** is your lab user number, e.g., _labuser**ID**@wx1.wbx.ai_)':
 	- For the team use **Salesforce Team**. 
 
 ![Nav](./assets/t1s2p2.png){ width="333" }
