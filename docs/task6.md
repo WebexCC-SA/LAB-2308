@@ -75,4 +75,8 @@ Making a test call:
 ![Nav](./assets/t5s2p3a.png){ width="1400" }
 
 - End the call.
+
+!!! note "The Why of This Exercise" 
+	In this section we passed the Call Session ID in the case on salesforce if this needs to be gathered for troubleshooting purposes.
+	
 - Congratulations! You have complete the task and the lab!
