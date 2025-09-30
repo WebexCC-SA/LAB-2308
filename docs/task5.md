@@ -18,7 +18,7 @@ Please use the following credentials to complete the tasks:
 | `WxCC Username` | labuser**ID**@wx1.wbx.ai <button onclick="copyText('labuserID@wx1.wbx.ai')">📋</button>  _(where **ID** is your selected pod number (01 through 30); i.e. labuser**02**@wx1.wbx.ai if selected pod is 2)_       |
 | `WxCC Password` | webexONE1! <button onclick="copyText('webexONE1!')">📋</button> |
 | `Salesforce Username` | labuser**ID**@wx1.wbx.ai <button onclick="copyText('labuserID@wx1.wbx.ai')">📋</button>  _(where **ID** is your selected pod number (01 through 30); i.e. labuser**02**@wx1.wbx.ai if selected pod is 2)_       |
-| `WxCC Password` | webexONE1! <button onclick="copyText('webexONE1!')">📋</button> |
+| `Salesforce Password` | webexONE1! <button onclick="copyText('webexONE1!')">📋</button> |
 
 
 !!! abstract "Info"
