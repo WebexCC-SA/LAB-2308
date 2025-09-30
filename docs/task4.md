@@ -60,24 +60,18 @@ Phone={ani}
 
 ![Nav](./assets/t3s2p1.png){ width="200" }
 
-- Copy the flow named **WX1_Salesforce_Template_DO_NOT_MODIFY** (the **'Copy'** option is on the right-hand side).
+- Search for the flow named **WX1_Salesforce_LabuserNN** _(where **NN** is your selected pod number (01 through 30); i.e. WX1_Salesforce_Labuser02 if selected pod is 2)_ and open the flow by selecting **Go to Flow Designer** by clicking the icon on the right. 
 
 ![Nav](./assets/t3s2p2.png){ width="1000" }
 
-- Copied flow will show up at the top of the flows list. Scroll up and open the **copied flow** by clicking the square **'Go to'** button on the right hand side.
 
-![Nav](./assets/t3s2p21.png){ width="400" }
-
-- Rename the flow to something more identifiable and personal (e.g., _labuser01_bhu_) by clicking the dropdown next to the flow name and selecting **'Edit Name'** (make sure **'Edit'** is set to **'On'**).
+- make sure **'Edit'** is set to **'On'**
 
 ![Nav](./assets/t3s2p3.png){ width="800" }
 
-- Click on the **'QueueContact'** node and select **Salesforce_Queue**
-
-![Nav](./assets/t3s2p4.png){ width="1000" }
 
 - Click on an empty space in the flow, then on the right-hand side, navigate to **'Custom Variables > Flow Variables'** section.
-- Click on **sfurl** flow variable, select the **'Edit'** option (pencil icon), enter the fully qualified domain name (FQDN) from your Salesforce lab (e.g., _wx1-lab01-dev-ed.develop.lightning.force.com_; without **_http://_**) as the Default Value, and click **'Save'**.
+- Click on **sfurl** flow variable, select the **'Edit'** option (pencil icon), replace **NN** with the attendee number which is the fully qualified domain name (FQDN) from your Salesforce lab (e.g., _wx1-lab01-dev-ed.develop.lightning.force.com_;) as the Default Value, and click **'Save'**.
 
 !!! warning "Attention" 
 	The FQDN used for the **sfurl** variable must end with **.lightning.force.com**. While logged into the Salesforce portal, you can find the name of the Salesforce organization in the browser's address field.
