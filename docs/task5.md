@@ -84,6 +84,7 @@ Second call interaction:
 - Make sure that agent state is set to 'Available' and then call the channel number again. In the IVR, choose **Option 5**.
 - Provide the case number that was created during the previous call.
 - The existing case should be displayed, and the case list should be displayed in a new tab.
+- Select the **Phone** icon and the same call will now show in both the tabs
 
 
 !!! warning
@@ -95,4 +96,7 @@ Second call interaction:
 ![Nav](./assets/t4s1p3.png){ width="400" }
 ![Nav](./assets/t4s1p4.png){ width="400" }
 
+!!! note "The why of this exercise" 
+	In the new salesforce connector we have solved the multi-sign in concerns when agent desktop is logged into 2 seperate tabs
+	
 - Congratulations! You have complete the task.
