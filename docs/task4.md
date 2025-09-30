@@ -65,7 +65,7 @@ Phone={ani}
 ![Nav](./assets/t3s2p2.png){ width="1000" }
 
 
-- make sure **'Edit'** is set to **'On'**
+- Turn edit mode by: **'Edit'** is set to **'On'**
 
 ![Nav](./assets/t3s2p3.png){ width="800" }
 
