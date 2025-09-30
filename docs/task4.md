@@ -9,7 +9,7 @@ Please use the following credentials to complete the tasks:
 | `Control Hub`             | <a href="https://admin.webex.com" target="_blank">https://admin.webex.com</a> |
 | `Salesforce`   | <a href="https://login.salesforce.com" target="_blank">https://login.salesforce.com/</a> |
 | `WxCC Username`       | labuser**ID**@wx1.wbx.ai  |     
-                         _(where **ID** is your selected pod number (01 through 30); i.e. labuser**02**@wx1.wbx.ai if selected pod is 2)_       |
+|                        _(where **ID** is your selected pod number (01 through 30); i.e. labuser**02**@wx1.wbx.ai if selected pod is 2)_       |
 | `WxCC Password`       | webexONE1!         |
 | `Salesforce Username`       | labuser**ID**@wx1.wbx.ai  |
 |                       | _(where **ID** is your selected pod number (01 through 30); i.e. labuser**02**@wx1.wbx.ai if selected pod is 2)_       |
