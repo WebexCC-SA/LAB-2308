@@ -1,5 +1,46 @@
 # Task 5 - Case Lookup Using Custom CAD Variables and Agent Desktop Screen Pop
 
+<script>
+ function update () {
+    const form = document.forms['attendee-form'];
+    if (form) {
+      form.addEventListener('submit', function (event) {
+        event.preventDefault();
+        const inputs = Array.from(form.querySelectorAll('input'));
+        const values = inputs.reduce((acc, input) => {
+          acc[input.id + '_out'] = input.value;
+          return acc;
+        }, {});
+
+        Object.entries(values).forEach(([id, value]) => {
+          const elements = document.getElementsByClassName(id);
+          Array.from(elements).forEach(element => {
+
+            console.log(element.innerHTML);
+            if(Number(element.innerHTML) > 99 ){
+               console.log(`Got a 99+ attendee: ${element.innerHTML}`);
+               element.innerHTML = value;
+             }
+            else{
+               console.log(`Got a sub 99 attendee: ${element.innerHTML}`);
+               if(element.innerHTML.includes('gmail.com'))
+               {
+                element.innerHTML = `0${value}`;
+                }
+               else{
+                element.innerHTML = value;
+               }
+                }
+          });
+        });
+        const attendeeIDInput = form.elements['attendeeID'];
+       if (attendeeIDInput && attendeeIDInput.value !== 'Your_Attendee_ID') {
+          localStorage.setItem('attendeeID', attendeeIDInput.value);
+        }
+      });
+    }
+  };
+</script>
 
 Please use the following credentials to complete the tasks:
 
@@ -7,6 +48,7 @@ Please use the following credentials to complete the tasks:
 | ------------------------- | ---------------- |
 | `Control Hub`             | <a href="https://admin.webex.com" target="_blank">https://admin.webex.com</a> |
 | `Salesforce`   | <a href="https://login.salesforce.com" target="_blank">https://login.salesforce.com/</a> |
+| `WxCC Username`       | labuser<w class = "attendee_out">attendeeID</w>@wx1.wbx.ai      |
 | `WxCC Username`       | labuser**ID**@wx1.wbx.ai     _(where **ID** is your selected pod number (01 through 30); i.e. labuser**02**@wx1.wbx.ai if selected pod is 2)_       |
 | `WxCC Password`       | webexONE1!         |
 | `Salesforce Username`       | labuser**ID**@wx1.wbx.ai     _(where **ID** is your selected pod number (01 through 30); i.e. labuser**02**@wx1.wbx.ai if selected pod is 2)_       |
