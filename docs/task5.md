@@ -12,6 +12,41 @@ Please use the following credentials to complete the tasks:
 | `Salesforce Username`       | labuser**ID**@wx1.wbx.ai     _(where **ID** is your selected pod number (01 through 30); i.e. labuser**02**@wx1.wbx.ai if selected pod is 2)_       |
 | `Salesforce Password`       | webexONE1!       |
 
+<script src='../../assets/load.js'></script>
+
+  <script>
+    async function update(){
+    event.preventDefault()
+    response = await fetch(`https://63f62bf859c944921f6e89de.mockapi.io/ivrpod?POD=${document.forms["attendee-form"][0].value}`,
+    {
+    method: 'GET',
+    redirect: 'follow'
+})
+response = await response.json()
+await localStorage.setItem("EPDN",await response[0]['EP DN'])
+await localStorage.setItem("PW",await response[0].Password)
+await localStorage.setItem("POD",await response[0].POD)
+loadem()
+}
+loadem()
+</script>
+
+!!! tip "Please submit the form below with your Attendee ID in 3 digits long format (e.g. if your attendee ID is 51, please enter 051) and click Save. All configuration items in the lab guide will be renamed with that prefix."
+
+    <script>
+    document.forms["attendee-form"][0].value = localStorage.getItem("POD") || ""; 
+    update();
+    </script>
+    <form id="attendee-form">
+    <label for="attendee">Attendee ID:</label>
+    <input type="text" id="attendee" name="attendee" onChange="update()" style="border: 2px solid black; padding: 5px; border-radius: 4px; background-color: orange;"><br>
+    <br>
+    <button type="button" onclick="update()" style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">Save</button>
+    </form>
+    <script>
+    document.forms["attendee-form"][0].value = localStorage.getItem("POD") || "";
+    update();
+    </script>
 
 !!! abstract "Info"
 	In addition to utilizing global variables collected during the customer's interaction in the Webex Contact Center IVR, this task demonstrates the functionality of the new Webex Contact Center CRM widget for Salesforce with screen pops that operate seamlessly without triggering multiple sign-in alert errors.
