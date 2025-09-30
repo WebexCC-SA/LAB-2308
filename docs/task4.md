@@ -70,7 +70,7 @@ Phone={ani}
 ![Nav](./assets/t3s2p3.png){ width="800" }
 
 
-- Click on an empty space in the flow, then on the right-hand side, navigate to **'Custom Variables > Flow Variables'** section.
+- Click on an empty space in the flow, then on the right-hand side, scroll down to navigate to **'Custom Variables > Flow Variables'** section.
 - Click on **sfurl** flow variable, select the **'Edit'** option (pencil icon), replace **NN** with the attendee number which is the fully qualified domain name (FQDN) from your Salesforce lab (e.g., _wx1-lab01-dev-ed.develop.lightning.force.com_;) as the Default Value, and click **'Save'**.
 
 !!! warning "Attention" 
