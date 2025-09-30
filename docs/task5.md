@@ -67,7 +67,7 @@ Please use the following credentials to complete the tasks:
 First call interaction:
 
 - Make sure that the agent state is set to 'Available' and then call the channel number (as noted in the **Task 4**). In the IVR, choose **Option 4**.
-- Create a new case through the Webex Contact Center widget and note down the **case number** - it's going to be needed for the second call below.
+- After answering the call selct **Create a new case** (highlitned in green) through the Webex Contact Center widget and note down the **case number** (highlitned in blue) - it's going to be needed for the second call below.
 
 ![Nav](./assets/t4s1p2.png){ width="333" }
 ![Nav](./assets/t4s1p21.png){ width="333" }
