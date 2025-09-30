@@ -1,41 +1,5 @@
 # Task 5 - Case Lookup Using Custom CAD Variables and Agent Desktop Screen Pop
 
-<script src='../../assets/load.js'></script>
-
-  <script>
-    async function update(){
-    event.preventDefault()
-    response = await fetch(`https://63f62bf859c944921f6e89de.mockapi.io/ivrpod?POD=${document.forms["attendee-form"][0].value}`,
-    {
-    method: 'GET',
-    redirect: 'follow'
-})
-response = await response.json()
-await localStorage.setItem("EPDN",await response[0]['EP DN'])
-await localStorage.setItem("PW",await response[0].Password)
-await localStorage.setItem("POD",await response[0].POD)
-loadem()
-}
-loadem()
-</script>
-
-!!! tip "Please submit the form below with your Attendee ID in 2 digits long format (e.g. example 01 or 10 or 20) and click Save. All configuration items in the lab guide will be renamed with that prefix."
-
-    <script>
-    document.forms["attendee-form"][0].value = localStorage.getItem("POD") || ""; 
-    update();
-    </script>
-    <form id="attendee-form">
-    <label for="attendee">Attendee ID:</label>
-    <input type="text" id="attendee" name="attendee" onChange="update()" style="border: 2px solid black; padding: 5px; border-radius: 4px; background-color: orange;"><br>
-    <br>
-    <button type="button" onclick="update()" style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">Save</button>
-    </form>
-    <script>
-    document.forms["attendee-form"][0].value = localStorage.getItem("POD") || "";
-    update();
-    </script>
-
 
 Please use the following credentials to complete the tasks:
 
@@ -43,7 +7,6 @@ Please use the following credentials to complete the tasks:
 | ------------------------- | ---------------- |
 | `Control Hub`             | <a href="https://admin.webex.com" target="_blank">https://admin.webex.com</a> |
 | `Salesforce`   | <a href="https://login.salesforce.com" target="_blank">https://login.salesforce.com/</a> |
-| `WxCC Username`       | labuser<w class = "attendee_out">attendeeID</w>@wx1.wbx.ai      |
 | `WxCC Username`       | labuser**ID**@wx1.wbx.ai     _(where **ID** is your selected pod number (01 through 30); i.e. labuser**02**@wx1.wbx.ai if selected pod is 2)_       |
 | `WxCC Password`       | webexONE1!         |
 | `Salesforce Username`       | labuser**ID**@wx1.wbx.ai     _(where **ID** is your selected pod number (01 through 30); i.e. labuser**02**@wx1.wbx.ai if selected pod is 2)_       |
