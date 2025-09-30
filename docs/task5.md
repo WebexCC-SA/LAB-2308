@@ -1,17 +1,5 @@
 # Task 5 - Case Lookup Using Custom CAD Variables and Agent Desktop Screen Pop
 
-
-Please use the following credentials to complete the tasks:
-
-| <!-- -->                  | <!-- -->         |
-| ------------------------- | ---------------- |
-| `Control Hub`             | <a href="https://admin.webex.com" target="_blank">https://admin.webex.com</a> |
-| `Salesforce`   | <a href="https://login.salesforce.com" target="_blank">https://login.salesforce.com/</a> |
-| `WxCC Username`       | labuser**ID**@wx1.wbx.ai     _(where **ID** is your selected pod number (01 through 30); i.e. labuser**02**@wx1.wbx.ai if selected pod is 2)_       |
-| `WxCC Password`       | webexONE1!         |
-| `Salesforce Username`       | labuser**ID**@wx1.wbx.ai     _(where **ID** is your selected pod number (01 through 30); i.e. labuser**02**@wx1.wbx.ai if selected pod is 2)_       |
-| `Salesforce Password`       | webexONE1!       |
-
 <script src='../../assets/load.js'></script>
 
   <script>
@@ -31,7 +19,7 @@ loadem()
 loadem()
 </script>
 
-!!! tip "Please submit the form below with your Attendee ID in 3 digits long format (e.g. if your attendee ID is 51, please enter 051) and click Save. All configuration items in the lab guide will be renamed with that prefix."
+!!! tip "Please submit the form below with your Attendee ID in 2 digits long format (e.g. example 01 or 10 or 20) and click Save. All configuration items in the lab guide will be renamed with that prefix."
 
     <script>
     document.forms["attendee-form"][0].value = localStorage.getItem("POD") || ""; 
@@ -47,6 +35,20 @@ loadem()
     document.forms["attendee-form"][0].value = localStorage.getItem("POD") || "";
     update();
     </script>
+
+
+Please use the following credentials to complete the tasks:
+
+| <!-- -->                  | <!-- -->         |
+| ------------------------- | ---------------- |
+| `Control Hub`             | <a href="https://admin.webex.com" target="_blank">https://admin.webex.com</a> |
+| `Salesforce`   | <a href="https://login.salesforce.com" target="_blank">https://login.salesforce.com/</a> |
+| `WxCC Username`       | labuser<w class = "attendee_out">attendeeID</w>@wx1.wbx.ai      |
+| `WxCC Username`       | labuser**ID**@wx1.wbx.ai     _(where **ID** is your selected pod number (01 through 30); i.e. labuser**02**@wx1.wbx.ai if selected pod is 2)_       |
+| `WxCC Password`       | webexONE1!         |
+| `Salesforce Username`       | labuser**ID**@wx1.wbx.ai     _(where **ID** is your selected pod number (01 through 30); i.e. labuser**02**@wx1.wbx.ai if selected pod is 2)_       |
+| `Salesforce Password`       | webexONE1!       |
+
 
 !!! abstract "Info"
 	In addition to utilizing global variables collected during the customer's interaction in the Webex Contact Center IVR, this task demonstrates the functionality of the new Webex Contact Center CRM widget for Salesforce with screen pops that operate seamlessly without triggering multiple sign-in alert errors.
