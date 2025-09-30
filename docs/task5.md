@@ -42,6 +42,9 @@
   };
 </script>
 
+> Please **`submit the form below with your Attendee ID`**. All configuration items in the lab guide will be renamed with that prefix.
+> {: .block-warning }
+
 Please use the following credentials to complete the tasks:
 
 | <!-- -->                  | <!-- -->         |
