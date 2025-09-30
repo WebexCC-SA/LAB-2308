@@ -96,7 +96,7 @@ Second call interaction:
 ![Nav](./assets/t4s1p3.png){ width="400" }
 ![Nav](./assets/t4s1p4.png){ width="400" }
 
-!!! note "The why of this exercise" 
+!!! note "The Why of This Exercise" 
 	In the new salesforce connector we have solved the multi-sign in concerns when agent desktop is logged into 2 seperate tabs
 	
 - Congratulations! You have complete the task.
