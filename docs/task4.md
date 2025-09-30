@@ -88,7 +88,9 @@ Phone={ani}
 
 ![Nav](./assets/t3s2p8.png){ width="200" }
 
-- Open **WebexOne_AI_EntryPoint_N** (where **'N'** is your lab user number, e.g., _labuser0**7**@wx1.wbx.ai _), associate your newly created flow under 'Routing Flow' (note down the **'Support Number'** associated with this channel - it will be needed later in this lab for testing) and click **'Save'**.
+- Open **WebexOne_AI_EntryPoint_N** (where **'N'** is your lab user number, e.g., _labuser0**7**@wx1.wbx.ai _), verify that your flow is under 'Routing Flow' 
+
+- Note down the **'Support Number'** associated with this channel - it will be needed later in this lab for testing. 
 
 ![Nav](./assets/t3s2p9.png){ width="1000" }
 
