@@ -27,6 +27,9 @@ Please use the following credentials to complete the tasks:
 ## **Create Salesforce Trial Account**
 - Navigate to Salesforce Developer portal:  <a href="https://www.salesforce.com/products/free-trial/developer" target="_blank">https://www.salesforce.com/products/free-trial/developer/</a> and log in and create an account 
 
+!!! note
+	Trial account only expires if its not logged in alteast once in 45 days. 
+
 
 ## **Section 1 - Configure Call Center**
 
