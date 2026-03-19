@@ -1,6 +1,6 @@
 ---
-site_name: "LAB-2308: Building Webex Contact Center connectors: From planning and configuration to avoiding pitfalls" # This must begin with the session ID, e.g. LABXXX-1234 This is my Cisco Live Lab
-site_description: "Building Webex Contact Center connectors: From planning and configuration to avoiding pitfalls" # must be same as "site_name"
+site_name: "Building Webex Contact Center connectors: Configuration and Troubleshooting" # This must begin with the session ID, e.g. LABXXX-1234 This is my Cisco Live Lab
+site_description: "Building Webex Contact Center connectors: Configuration and Troubleshooting" # must be same as "site_name"
 site_author: Anuj Bhatia, D.K Singh, Bhushan Suresh
 copyright: Copyright &copy; 2025 Cisco
 theme:
