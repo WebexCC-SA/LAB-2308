@@ -15,10 +15,7 @@ Please use the following credentials to complete the tasks:
 | ------------------------- | ---------------- |
 | `Control Hub`             | <a href="https://admin.webex.com" target="_blank">https://admin.webex.com</a> |
 | `Salesforce`   | <a href="https://login.salesforce.com" target="_blank">https://login.salesforce.com/</a> |
-| `WxCC Username` | labuser**ID**@wx1.wbx.ai <button onclick="copyText('labuserID@wx1.wbx.ai')">📋</button>  _(where **ID** is your selected pod number (01 through 30); i.e. labuser**02**@wx1.wbx.ai if selected pod is 2)_       |
-| `WxCC Password` | webexONE1! <button onclick="copyText('webexONE1!')">📋</button> |
-| `Salesforce Username` | labuser**ID**@wx1.wbx.ai <button onclick="copyText('labuserID@wx1.wbx.ai')">📋</button>  _(where **ID** is your selected pod number (01 through 30); i.e. labuser**02**@wx1.wbx.ai if selected pod is 2)_       |
-| `Salesforce Password` | webexONE1! <button onclick="copyText('webexONE1!')">📋</button> |
+| `Salesforce Developer Edition`   | Sign up link: <a href="https://www.salesforce.com/products/free-trial/developer" target="_blank">https://www.salesforce.com/products/free-trial/developer//</a> |
 
 
 !!! info "Task Objectives"
@@ -26,7 +23,11 @@ Please use the following credentials to complete the tasks:
 	- Create a softphone layout and set screen pop preferences.
 	- Add the Webex Contact Center softphone to the Salesforce Sales app.
 	- Test the Webex Contact Center softphone integration in Salesforce.
- 
+
+## **Create Salesforce Trail**
+- Navigate to Salesforce Developer portal:  <a href="https://www.salesforce.com/products/free-trial/developer" target="_blank">https://www.salesforce.com/products/free-trial/developer//</a> and log in and create an account 
+
+
 ## **Section 1 - Configure Call Center**
 
 !!! warning "Attention"
