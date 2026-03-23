@@ -8,16 +8,6 @@ function copyText(text) {
 </script>
 
 	
-Please use the following credentials to complete the tasks:
-
-
-| <!-- -->                  | <!-- -->         |
-| ------------------------- | ---------------- |
-| `Control Hub`             | <a href="https://admin.webex.com" target="_blank">https://admin.webex.com</a> |
-| `Salesforce`   | <a href="https://login.salesforce.com" target="_blank">https://login.salesforce.com/</a> |
-| `Salesforce Developer Edition`   | Sign up link: <a href="https://www.salesforce.com/products/free-trial/developer" target="_blank">https://www.salesforce.com/products/free-trial/developer/</a> |
-
-
 !!! info "Task Objectives"
 	- This page has the salesforce versions and external guides.
 	- How to differentiate between the versions 
@@ -31,13 +21,20 @@ Please use the following credentials to complete the tasks:
 | `Latest Updates`   | <a href="[https://login.salesforce.com](https://help.webex.com/en-us/article/nhxw7kfb/Integrate-Webex-Contact-Center-with-Salesforce-(Version-1%E2%80%94Legacy)#concept-template_ac93b49e-a5eb-4942-a734-26c8da471aae)" target="_blank">[https://login.salesforce.com/](https://help.webex.com/en-us/article/nhxw7kfb/Integrate-Webex-Contact-Center-with-Salesforce-(Version-1%E2%80%94Legacy)#concept-template_ac93b49e-a5eb-4942-a734-26c8da471aae)/</a> |
 
 
-## Salesforce Legacy - Version 2-New
+## Salesforce - Version 2-New
 
 | <!-- -->                  | <!-- -->         |
 | ------------------------- | ---------------- |
 | `Integration Guide`             | <a href="https://help.webex.com/en-us/article/dyidod/Integrate-Webex-Contact-Center-with-Salesforce-(Version-2-New)" target="_blank">[[https://www.salesforce.com/products/free-trial/developer](https://help.webex.com/en-us/article/nhxw7kfb/Integrate-Webex-Contact-Center-with-Salesforce-(Version-1%E2%80%94Legacy)](https://help.webex.com/en-us/article/dyidod/Integrate-Webex-Contact-Center-with-Salesforce-(Version-2-New)/</a> |
 | `Latest Updates`   | <a href="[https://login.salesforce.com](https://help.webex.com/en-us/article/nhxw7kfb/Integrate-Webex-Contact-Center-with-Salesforce-(Version-1%E2%80%94Legacy)#concept-template_ac93b49e-a5eb-4942-a734-26c8da471aae)" target="_blank">[https://login.salesforce.com/](https://help.webex.com/en-us/article/nhxw7kfb/Integrate-Webex-Contact-Center-with-Salesforce-(Version-1%E2%80%94Legacy)#concept-template_ac93b49e-a5eb-4942-a734-26c8da471aae)/</a> |
 
+
+
+## How to differentiate between versions 
+
+| <!-- -->                  | <!-- -->         |
+| ------------------------- | ---------------- |
+| `Guide`             | <a href="https://techzone.cisco.com/t5/Contact-Center-3rd-Party/Playbook-CRM-Connector-Version-Matrix-Install-Store-Link/ta-p/16910365" target="_blank">https://techzone.cisco.com/t5/Contact-Center-3rd-Party/Playbook-CRM-Connector-Version-Matrix-Install-Store-Link/ta-p/16910365/</a> |
 
 
 
