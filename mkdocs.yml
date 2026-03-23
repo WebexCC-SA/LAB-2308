@@ -79,6 +79,7 @@ nav:
   - Home: index.md
   - Lab:
       - Overview: Intro.md
+      - Task 0 - Integrate Webex Contact Center with Saleforce Using the Legacy CRM Connector: task0.md
       - Task 1 - Integrate Webex Contact Center with Saleforce Using the New CRM Connector: task1.md
       - Task 2 - Integrate Saleforce Connector with WebRTC: task2.md
       - Task 3 - Presence Synchronization Between Salesforce and Webex Contact Center: task3.md
