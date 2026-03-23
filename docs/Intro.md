@@ -27,14 +27,15 @@ In this lab session, you will explore the capabilities of the **Legacy Webex Con
 | <!-- -->                  | <!-- -->         |
 | ------------------------- | ---------------- |
 | `Integration Guide`             | <a href="https://www.salesforce.com/products/free-trial/developer](https://help.webex.com/en-us/article/nhxw7kfb/Integrate-Webex-Contact-Center-with-Salesforce-(Version-1%E2%80%94Legacy)" target="_blank">https://www.salesforce.com/products/free-trial/developer](https://help.webex.com/en-us/article/nhxw7kfb/Integrate-Webex-Contact-Center-with-Salesforce-(Version-1%E2%80%94Legacy)/</a> |
-| `Latest Updates`   | <a href="[https://login.salesforce.com](https://help.webex.com/en-us/article/nhxw7kfb/Integrate-Webex-Contact-Center-with-Salesforce-(Version-1%E2%80%94Legacy)#concept-template_ac93b49e-a5eb-4942-a734-26c8da471aae)" target="_blank">https://login.salesforce.com/](https://help.webex.com/en-us/article/nhxw7kfb/Integrate-Webex-Contact-Center-with-Salesforce-(Version-1%E2%80%94Legacy)#concept-template_ac93b49e-a5eb-4942-a734-26c8da471aae)](https://help.webex.com/en-us/article/nhxw7kfb/Integrate-Webex-Contact-Center-with-Salesforce-(Version-1%E2%80%94Legacy)#concept-template_ac93b49e-a5eb-4942-a734-26c8da471aae)/</a> |
+| `Latest Updates`   | <a href="[https://login.salesforce.com](https://help.webex.com/en-us/article/nhxw7kfb/Integrate-Webex-Contact-Center-with-Salesforce-(Version-1%E2%80%94Legacy)#concept-template_ac93b49e-a5eb-4942-a734-26c8da471aae)" target="_blank">https://help.webex.com/en-us/article/nhxw7kfb/Integrate-Webex-Contact-Center-with-Salesforce-(Version-1%E2%80%94Legacy)#concept-template_ac93b49e-a5eb-4942-a734-26c8da471aae/</a> |
 
 
 ### Salesforce - Version 2-New
 
 | <!-- -->                  | <!-- -->         |
 | ------------------------- | ---------------- |
-| `Integration Guide`             | <a href="https://help.webex.com/en-us/article/dyidod/Integrate-Webex-Contact-Center-with-Salesforce-(Version-2-New)" target="_blank">[[https://www.salesforce.com/products/free-trial/developer](https://help.webex.com/en-us/article/nhxw7kfb/Integrate-Webex-Contact-Center-with-Salesforce-(Version-1%E2%80%94Legacy)](https://help.webex.com/en-us/article/dyidod/Integrate-Webex-Contact-Center-with-Salesforce-(Version-2-New)/</a> |
+| `Integration Guide`             | <a href="https://help.webex.com/en-us/article/dyidod/Integrate-Webex-Contact-Center-with-Salesforce-(Version-2-New)" target="_blank">https://help.webex.com/en-us/article/dyidod/Integrate-Webex-Contact-Center-with-Salesforce-(Version-2-New)/</a> |
+| `Access Guide`   | <a href="https://help.webex.com/en-us/article/n08vfjcb/Access-and-use-Webex-Contact-Center-within-Salesforce-(Version-2-New)" target="_blank">https://help.webex.com/en-us/article/n08vfjcb/Access-and-use-Webex-Contact-Center-within-Salesforce-(Version-2-New)/</a> |
 | `Latest Updates`   | <a href="https://help.webex.com/en-us/article/dyidod/Integrate-Webex-Contact-Center-with-Salesforce-(Version-2-New)#concept_d3z_st5_hgc" target="_blank">https://help.webex.com/en-us/article/dyidod/Integrate-Webex-Contact-Center-with-Salesforce-(Version-2-New)#concept_d3z_st5_hgc/</a> |
 
 
