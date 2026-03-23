@@ -40,7 +40,7 @@ In this lab session, you will explore the capabilities of the **Legacy Webex Con
 
 
 
-## How to differentiate between versions 
+### Differentiate between versions 
 
 | <!-- -->                  | <!-- -->         |
 | ------------------------- | ---------------- |
