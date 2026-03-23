@@ -7,13 +7,22 @@ function copyText(text) {
 }
 </script>
 
+
+## Learning Objectives
+
+This lab session is an **intermediate level** session intended for engineers with prior **Webex Contact Center** experience and either basic or no knowledge of the Webex Contact Center integration with **Salesforce** customer relationship management (CRM) system.
+
+In this lab session, you will explore the capabilities of the **Legacy Webex Contact Center CRM Connector**  and **New Webex Contact Center CRM Connector** for **Salesforce** that enables you to manage voice interactions while accessing customer information within Salesforce. You will gain hands-on experience with seamless screen pops, activity logging, case management, and other features — all integrated into a streamlined, user-friendly agent interface.
+
+
 	
 !!! info "Task Objectives"
 	- This page has the salesforce versions and external guides.
 	- How to differentiate between the versions 
 	
+## Resource links
 
-## Salesforce - Version 1-Legacy  
+### Salesforce - Version 1-Legacy  
 
 | <!-- -->                  | <!-- -->         |
 | ------------------------- | ---------------- |
@@ -21,7 +30,7 @@ function copyText(text) {
 | `Latest Updates`   | <a href="[https://login.salesforce.com](https://help.webex.com/en-us/article/nhxw7kfb/Integrate-Webex-Contact-Center-with-Salesforce-(Version-1%E2%80%94Legacy)#concept-template_ac93b49e-a5eb-4942-a734-26c8da471aae)" target="_blank">[https://login.salesforce.com/](https://help.webex.com/en-us/article/nhxw7kfb/Integrate-Webex-Contact-Center-with-Salesforce-(Version-1%E2%80%94Legacy)#concept-template_ac93b49e-a5eb-4942-a734-26c8da471aae)/</a> |
 
 
-## Salesforce - Version 2-New
+### Salesforce - Version 2-New
 
 | <!-- -->                  | <!-- -->         |
 | ------------------------- | ---------------- |
@@ -37,8 +46,5 @@ function copyText(text) {
 | `Guide`             | <a href="https://techzone.cisco.com/t5/Contact-Center-3rd-Party/Playbook-CRM-Connector-Version-Matrix-Install-Store-Link/ta-p/16910365" target="_blank">https://techzone.cisco.com/t5/Contact-Center-3rd-Party/Playbook-CRM-Connector-Version-Matrix-Install-Store-Link/ta-p/16910365/</a> |
 
 
-
-!!! note
-	Trial account only expires if its not logged in alteast once in 45 days. 
 
 
